@@ -1,10 +1,14 @@
 # BTtiantang.alfredworkflow
 Search keywords in BTtiantang....
 
+# bt
+![Alt text](img/use.png)
+
 支持两种模式
 # bt keyword
 ![Alt text](img/id.png)
 返回搜索结果的id和名称
+
 此时选择, 会用浏览器打开选择的页面
 
 
